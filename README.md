@@ -18,4 +18,5 @@ Here are some ideas to get you started:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimheonju&hide=contribs,prs&show_icons=true&theme=graywhite)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimheonju&layout=compact)
-![python](https://img.shields.io/badge/python-F7DF1E?style=for-the-badge&logo=python&logoColor=white)
+![Window](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
