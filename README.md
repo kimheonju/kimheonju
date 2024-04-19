@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFAAA,10:FFF4B2,30:E2F4AA,75:7F90AE,100:9D7DAF&height=100&section=header&text=&fontSize=0" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F2A9B5,10:FFF4B2,30:E2F4AA,75:7F90AE,100:9D7DAF&height=100&section=header&text=&fontSize=0" width="100%"/>
 
 
 ### Welcome to kimheonju github!👋
