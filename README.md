@@ -18,10 +18,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yohan050605)](https://github.com/anuraghazra/github-readme-stats)
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimheonju&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=ffffff&icon_color=58A6FF&text_color=000000&title_color=58A6FF&count_private=true&exclude_repo=Face-Transfer-Application" width=38% />
-</a>    
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api?username=kimheonju&show_icons=true&theme=material-palenight&hide_border=true&bg_color=ffffff&icon_color=58A6FF&text_color=000000&title_color=58A6FF&count_private=true" width=56% />
 </a>
