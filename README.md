@@ -19,7 +19,6 @@ Here are some ideas to get you started:
 -->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimheonju)](https://github.com/anuraghazra/github-readme-stats)
-
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api?username=kimheonju&show_icons=true&theme=material-palenight&hide_border=true&bg_color=ffffff&icon_color=58A6FF&text_color=000000&title_color=58A6FF&count_private=true" width=56% />
 </a>
