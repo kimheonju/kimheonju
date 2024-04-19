@@ -18,3 +18,4 @@ Here are some ideas to get you started:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimheonju&hide=contribs,prs&show_icons=true&theme=graywhite)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimheonju&layout=compact)
+![python](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
