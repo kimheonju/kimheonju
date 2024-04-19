@@ -30,4 +30,4 @@ Here are some ideas to get you started:
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=40&section=footer&text=&fontSize=0" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:F2A9B5,10:FFF4B2,30:E2F4AA,75:7F90AE,100:9D7DAF&height=40&section=footer&text=&fontSize=0" width="100%"/>
